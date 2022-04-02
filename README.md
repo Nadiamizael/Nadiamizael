@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Estudante de Desenvolvimento Web Full Stack 
-- ✨ Atualmente estudando React, JavaScript e TypeScrip
+- ✨ Atualmente estudando React, JavaScript e TypeScript
 - 😄 Pronomes: ela/dela
 
 
